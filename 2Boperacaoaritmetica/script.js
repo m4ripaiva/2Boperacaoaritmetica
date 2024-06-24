@@ -1,7 +1,41 @@
-var a = 78; 
-var b = 15; 
+// var a = 78; 
+// var b = 15; 
 
+// var total = a + b; 
+// console.log(total);
 
-var total = a + b; 
+// var a = 78;
+// var b = 15; 
 
-console.log(total);
+// var total = a - b;
+// console.log(total);
+
+// var a = 78;
+// var b = 15;
+
+// var total = a * b; 
+// console.log(total);
+
+// var a = 78;
+// var b = 15;
+
+// var total = a / b; 
+// console.log(total);
+
+// var a = 78;
+// var b = 15;
+
+// var total = a % b; 
+// console.log(total);
+
+// var a = 78;
+// var b = 15;
+
+// var total = a ++ b; 
+// console.log(total);
+
+// var a = 78;
+// var b = 15;
+
+// var total = a -- b; 
+// console.log(total);
